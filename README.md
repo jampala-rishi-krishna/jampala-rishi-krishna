@@ -80,8 +80,8 @@ Focus: LLMs | RAG | AI Agents | Real-Time AI Systems
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikrishna-ai&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikrishna-ai&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jampala-rishi-krishna&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jampala-rishi-krishna&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Focus: LLMs | RAG | AI Agents | Real-Time AI Systems
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishikrishna-ai&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jampala-rishi-krishna&theme=tokyo-night" />
 </p>
 
 ---
@@ -114,5 +114,5 @@ Focus: LLMs | RAG | AI Agents | Real-Time AI Systems
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishikrishna-ai&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jampala-rishi-krishna&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
